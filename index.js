@@ -1,3 +1,7 @@
-module.exports = function () {
-    console.log("Hello package");
+module.exports = function (lang) {
+    if(lang === 'es') {
+        console.log("Hola");
+    } else {
+        console.log("Hello");
+    }
 }
