@@ -1,6 +1,6 @@
 {
   "name": "terryllowery-test-npm-repo",
-  "version": "0.0.4",
+  "version": "1.0.0-beta.0",
   "description": "Test npm package",
   "main": "index.js",
   "scripts": {
